@@ -1,1 +1,1 @@
-# Rolling Canary and Blue-Green Deployments in Kubernetes
+# Rolling, Canary, and Blue-Green Deployments on Kubernetes
