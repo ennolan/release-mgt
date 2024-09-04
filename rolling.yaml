@@ -22,4 +22,6 @@ spec:
       - name: myapp-container
         image: myapp:v1
         ports:
-        - containerPort: 8080
+          - name: http
+            containerPort: 8080
+            
