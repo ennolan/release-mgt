@@ -3,11 +3,11 @@
 
 ## Tooling:
 
-* Minikube
+* Kubernetes
 * GitHub
 * Docker
 * ArgoCD
 
 
-## Brief over of deployment strategies
+## Brief overview of deployment strategies
 
